@@ -1,4 +1,7 @@
 # ANXCamera
+
+## This project has gone private as it has been found some people were De-ANXifying ANXCamera and distributing it. Incase you want to contribute in the development get in touch with the developers
+
 MiuiCamera Port for Beryllium
 
 Self sufficient repository to decompile to smali, recompile, sign, decompile to java, push to device app port.
