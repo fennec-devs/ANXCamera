@@ -1,6 +1,5 @@
 # ANXCamera
 
-## This project has gone private as it has been found some people were De-ANXifying ANXCamera and distributing it. Incase you want to contribute in the development get in touch with the developers
 
 MiuiCamera Port for Beryllium
 
